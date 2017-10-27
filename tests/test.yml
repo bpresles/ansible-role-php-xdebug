@@ -27,5 +27,5 @@
       when: ansible_os_family == 'RedHat'
     - role: geerlingguy.repo-dotdeb
       when: ansible_distribution == 'Debian'
-    - geerlingguy.php
+    - bpresles.php
     - role_under_test

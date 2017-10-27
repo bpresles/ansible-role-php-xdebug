@@ -1,10 +1,10 @@
 ---
 dependencies:
-  - geerlingguy.php
+  - bpresles.php
 
 galaxy_info:
-  author: geerlingguy
-  description: PHP XDebug for Linux
+  author: bpresles
+  description: PHP XDebug for Docker
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.0
